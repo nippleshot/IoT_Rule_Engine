@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f8e4d2a-4e49-400d-b669-b884e21ba672" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3_1/libexec" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YnfUhWOnVSw14vTeA1PDhqrCh8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/views" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="C:\codej\section4\src\main\resources" />
+      <recent name="C:\codej\section4\src\main\webapp\WEB-INF" />
+      <recent name="C:\codej\first\src\main\webapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/resources" />
+      <recent name="C:\codej\section4\src\main\webapp\WEB-INF\views" />
+      <recent name="C:\codej\section4\src\main\webapp\WEB-INF\views\person" />
+      <recent name="C:\codej\first\src\main\webapp\WEB-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PersonControllerTest.deletePerson">
+    <configuration name="PersonControllerTest.deletePerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.web" />
+      <option name="MAIN_CLASS_NAME" value="example.web.PersonControllerTest" />
+      <option name="METHOD_NAME" value="deletePerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonControllerTest.deletePersons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.web" />
+      <option name="MAIN_CLASS_NAME" value="example.web.PersonControllerTest" />
+      <option name="METHOD_NAME" value="deletePersons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonControllerTest.fixPersonInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.web" />
+      <option name="MAIN_CLASS_NAME" value="example.web.PersonControllerTest" />
+      <option name="METHOD_NAME" value="fixPersonInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonControllerTest.modifyPerson" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.web" />
+      <option name="MAIN_CLASS_NAME" value="example.web.PersonControllerTest" />
+      <option name="METHOD_NAME" value="modifyPerson" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonControllerTest.modifyPersons" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Homework02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example.web" />
+      <option name="MAIN_CLASS_NAME" value="example.web.PersonControllerTest" />
+      <option name="METHOD_NAME" value="modifyPersons" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PersonControllerTest.deletePerson" />
+        <item itemvalue="JUnit.PersonControllerTest.fixPersonInfo" />
+        <item itemvalue="JUnit.PersonControllerTest.modifyPerson" />
+        <item itemvalue="JUnit.PersonControllerTest.deletePersons" />
+        <item itemvalue="JUnit.PersonControllerTest.modifyPersons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f8e4d2a-4e49-400d-b669-b884e21ba672" name="Default Changelist" comment="" />
+      <created>1581644998824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581644998824</updated>
+      <workItem from="1583583301836" duration="36481000" />
+      <workItem from="1592232232327" duration="17830000" />
+      <workItem from="1592461964151" duration="3654000" />
+      <workItem from="1592480844238" duration="1847000" />
+      <workItem from="1592484418892" duration="10420000" />
+      <workItem from="1592542697752" duration="13265000" />
+      <workItem from="1592569428847" duration="535000" />
+      <workItem from="1592570386466" duration="287000" />
+      <workItem from="1592570693125" duration="125000" />
+      <workItem from="1592616505275" duration="7732000" />
+      <workItem from="1592636759387" duration="49000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="190" key="#SQL_Dialects" timestamp="1592407341190">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="190" key="#SQL_Dialects/0.0.1680.1050@0.0.1680.1050" timestamp="1592407341190" />
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser" timestamp="1592545033001">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1592545033001" />
+    <state width="1638" height="228" key="GridCell.Tab.0.bottom" timestamp="1592636807399">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="228" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592636807399" />
+    <state width="1638" height="201" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1592558396339" />
+    <state width="1638" height="228" key="GridCell.Tab.0.center" timestamp="1592636807398">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="228" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592636807398" />
+    <state width="1638" height="201" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1592558396339" />
+    <state width="1638" height="228" key="GridCell.Tab.0.left" timestamp="1592636807397">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="228" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592636807397" />
+    <state width="1638" height="201" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1592558396338" />
+    <state width="1638" height="228" key="GridCell.Tab.0.right" timestamp="1592636807398">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1638" height="228" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592636807398" />
+    <state width="1638" height="201" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1592558396339" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1592460346725">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1592460346725" />
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1592636759596">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1592636759596" />
+    <state x="517" y="325" key="com.intellij.ide.util.TipDialog/0.23.1680.940@0.23.1680.940" timestamp="1592569430691" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>first</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.19721329" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
